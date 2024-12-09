@@ -1,7 +1,7 @@
-export function ArticlePage() {
-  return (
-    <>
-      <h1>ArticlePage</h1>
-    </>
-  );
-}
+import React from "react";
+
+const ArticlePage = () => {
+  return <div>ArticlePage</div>;
+};
+
+export default ArticlePage;
